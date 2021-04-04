@@ -20,3 +20,14 @@ var j = num.toString(16);
     console.log("With Base eight(Octal): "+h);
     console.log("With Base nine: "+i);
     console.log("With Base sixteen(Hexadecimal): "+j);
+
+    document.write("Decimal: " + a +"<br/><br/>"); 
+    document.write("With Base as Two(Binary): "+b +"<br/><br/>");
+    document.write("With Base three: "+c +"<br/><br/>");
+    document.write("With Base Four: "+ d +"<br/><br/>");
+    document.write("With Base five: "+e +"<br/><br/>");
+    document.write("With Base six: "+f +"<br/><br/>");
+    document.write("With Base seven: "+g +"<br/><br/>");
+    document.write("With Base eight(Octal): "+h +"<br/><br/>");
+    document.write("With Base nine: "+i +"<br/><br/>");
+    document.write("With Base sixteen(Hexadecimal): "+j +"<br/><br/>");
